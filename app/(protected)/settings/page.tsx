@@ -136,7 +136,7 @@ function Settings({ }: Props) {
                     name="newPassword"
                     render={({ field }) => (
                       <FormItem>
-                        <FormLabel>Confirm Password</FormLabel>
+                        <FormLabel>New Password</FormLabel>
                         <FormControl>
                           <Input
                             placeholder="********"
